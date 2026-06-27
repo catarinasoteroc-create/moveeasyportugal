@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-# Block nothing important; allow full crawl of the marketing site.
-
-Sitemap: https://moveeasyportugal.com/sitemap.xml
